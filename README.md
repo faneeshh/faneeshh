@@ -2,34 +2,11 @@
 
 <h3 style="color: #00FF88;">Software Developer • Backend Engineer • Security Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+secure+backend+systems;Open+source+contributor;Java+%7C+Spring+Boot+%7C+System+Design;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+secure+backend+systems;If+it+works+I+try+to+break+it;If+it+breaks+I+try+to+fix+it;Java+%7C+Spring+Boot+%7C+System+Design;Writing+secure+code+so+I+don't+have+to+fix+it+tomorrow)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-### `$ whoami`
-
-```bash
-faneeshh@github:~$ cat about.txt
-
-> Software Developer specializing in backend engineering and secure software
-> Student @ University of the Fraser Valley | CIS | Class of 2027
-> Open Source Contributor
-> Passionate about system design, scalable architectures, and security
-
-Stack Focus:
-├── Backend: Java, Spring Boot, Node.js
-├── Frontend: React, MERN
-├── Database: MongoDB, SQL
-├── Security: OWASP, JWT, Session Management
-└── Tools: Git, Linux, Docker
-
-faneeshh@github:~$ █
-```
-
----
-
 ### `$ cat tech_stack.sh`
 
 <div align="center">
@@ -47,38 +24,6 @@ faneeshh@github:~$ █
 
 ---
 
-### `$ ls -la ~/projects`
-
-```bash
-drwxr-xr-x  3 faneeshh  faneeshh   4096 Feb 17 2026  .
-drwxr-xr-x 15 faneeshh  faneeshh   4096 Feb 17 2026  ..
-```
-
-#### **🟢 Foxlet** — *Full-Stack Social Platform*
-```
-├─ Tech: MERN Stack (MongoDB, Express, React, Node.js)
-├─ Scale: 5,000+ beta users
-├─ Features: JWT authentication, live chat, reputation system, real-time updates
-└─ Focus: Scalable architecture, secure session management
-```
-
-#### **🟢 Skill Cloud Job Portal** — *Backend System*
-```
-├─ Tech: Spring Boot, JWT, MySQL
-├─ Features: Role-based access control (RBAC), secure authentication
-├─ Focus: RESTful API design, enterprise-grade security
-└─ Learning: Microservices architecture patterns
-```
-
-#### **🟢 Security Tools & Hardening** — *OWASP Best Practices*
-```
-├─ Focus: XSS prevention, SQL injection mitigation, session vulnerabilities
-├─ Projects: Security audits, vulnerability patching, secure code reviews
-└─ Tools: OWASP ZAP, Burp Suite, custom security scripts
-```
-
----
-
 ### `$ git stats --show-all`
 
 <div align="center">
@@ -90,18 +35,6 @@ drwxr-xr-x 15 faneeshh  faneeshh   4096 Feb 17 2026  ..
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faneeshh&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
 </div>
-
----
-
-### `$ cat activity.log`
-
-```log
-[INFO] Currently contributing to open source projects
-[INFO] Building scalable backend systems with Java & Spring Boot
-[INFO] Exploring distributed systems and microservices architecture
-[INFO] Strengthening security fundamentals and OWASP practices
-[INFO] Always open to collaboration on backend/security projects
-```
 
 ---
 
@@ -117,13 +50,5 @@ drwxr-xr-x 15 faneeshh  faneeshh   4096 Feb 17 2026  ..
 ---
 
 <div align="center">
-
-```bash
-root@faneeshh:~$ echo "Thanks for visiting. Let's build something secure."
-Thanks for visiting. Let's build something secure.
-root@faneeshh:~$ █
-```
-
-<sub>💚 Open to collaboration • Backend Engineering • Security Research • Open Source</sub>
 
 </div>

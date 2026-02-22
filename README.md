@@ -2,7 +2,7 @@
 
 <h3 style="color: #00FF88;">Software Developer • Backend Engineer • Security Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+secure+backend+systems;If+it+works+I+try+to+break+it;If+it+breaks+I+try+to+fix+it;Java+%7C+Spring+Boot+%7C+System+Design;Writing+secure+code+so+I+don't+have+to+fix+it+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=;Writing+secure+code+so+I+don't+have+to+fix+it+tomorrow)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,10 +27,6 @@
 ### `$ git stats --show-all`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faneeshh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faneeshh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faneeshh&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 

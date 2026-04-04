@@ -2,7 +2,7 @@
 
 <h3 style="color: #00FF88;">Software Developer • Backend Engineer • Security Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=;This+is+not+LinkedIn,+so+I+don't+have+to+fake+anything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=;Insert+cool+text)](https://git.io/typing-svg)
 
 </div>
 
